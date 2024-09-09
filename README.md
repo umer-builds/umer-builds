@@ -1,3 +1,4 @@
+## Hi, I'm Umer Khan!
 <!-- **my bio and stats -->
 👨🏻‍💻 Software Engineer sharing my tech journey, discoveries, and insights as I build and learn along the way.<br>
 🤖 I’ve caught the coding bug and now I’m loving every moment of it.<br>
